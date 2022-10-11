@@ -1,3 +1,5 @@
+<img width="570" alt="Screenshot 2022-10-11 at 09 52 25" src="https://user-images.githubusercontent.com/112595648/195044877-233d4c4b-a67c-4204-a41a-a0441e8dd186.png">
+![Screenshot 2022-10-11 at 09 53 26](https://user-images.githubusercontent.com/112595648/195045027-7383c7f2-c387-4837-af8b-f68132093d59.png)
 # proj-7 8 and 9 : Devops Tooling Website Solution
 In this project, we shall implement a solution that consist of component as shown in the diagram below
 ![Screenshot 2022-09-29 at 11 24 12](https://user-images.githubusercontent.com/112595648/193007336-75ba8cd5-c163-4f10-87c1-53aa3b9e3bf2.png)

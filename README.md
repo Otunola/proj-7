@@ -1,4 +1,4 @@
-<img width="570" alt="Screenshot 2022-10-11 at 09 52 25" src="https://user-images.githubusercontent.com/112595648/195044877-233d4c4b-a67c-4204-a41a-a0441e8dd186.png">
+
 ![Screenshot 2022-10-11 at 09 53 26](https://user-images.githubusercontent.com/112595648/195045027-7383c7f2-c387-4837-af8b-f68132093d59.png)
 # proj-7 8 and 9 : Devops Tooling Website Solution
 In this project, we shall implement a solution that consist of component as shown in the diagram below
@@ -13,3 +13,4 @@ we have 3 webservers (rhel-8) 1 NFS-server(Rhel-8) and a DB-server (ubuntu20.4)
 <img width="563" alt="Screenshot 2022-10-11 at 09 09 59" src="https://user-images.githubusercontent.com/112595648/195034846-4dc7d6fb-07f3-402a-bce5-a6997978b3eb.png">
 <img width="570" alt="Screenshot 2022-10-11 at 09 21 13" src="https://user-images.githubusercontent.com/112595648/195037520-fc565d85-666b-49c9-b58c-286bf1cd4d1c.png">
 ![Screenshot 2022-10-11 at 09 22 00](https://user-images.githubusercontent.com/112595648/195037665-c0e0776a-3566-4bf7-8cd0-3e9fdd47fbcd.png)
+<img width="570" alt="Screenshot 2022-10-11 at 09 52 25" src="https://user-images.githubusercontent.com/112595648/195044877-233d4c4b-a67c-4204-a41a-a0441e8dd186.png">

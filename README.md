@@ -1,4 +1,4 @@
-# proj-7 8 and 9 : Devops Tooling Website Solution
+#  implementation a web solution for a DevOps team using LAMP stack with remote Database and NFS servers
 In this project, we shall implement a solution that consist of component as shown in the diagram below
 ![Screenshot 2022-09-29 at 11 24 12](https://user-images.githubusercontent.com/112595648/193007336-75ba8cd5-c163-4f10-87c1-53aa3b9e3bf2.png)
 
@@ -24,4 +24,5 @@ we have 3 webservers (rhel-8) 1 NFS-server(Rhel-8) and a DB-server (ubuntu20.4)
 <img width="712" alt="Screenshot 2022-10-12 at 15 21 45" src="https://user-images.githubusercontent.com/112595648/195368731-d1576668-1351-4ecd-b7ae-25a5493ec81b.png">
 <img width="711" alt="Screenshot 2022-10-12 at 15 39 01" src="https://user-images.githubusercontent.com/112595648/195372977-5393c394-7cc1-42b5-a02b-d838e5ffe235.png">
 ![Screenshot 2022-10-12 at 15 42 22](https://user-images.githubusercontent.com/112595648/195373904-0dcc796a-b5d1-400a-bbdd-2db0a718741a.png)
-
+<img width="717" alt="Screenshot 2022-10-12 at 15 58 16" src="https://user-images.githubusercontent.com/112595648/195377688-4d77bc06-6640-4d23-96fe-b8452dcc0dd6.png">
+![Screenshot 2022-10-12 at 16 17 21](https://user-images.githubusercontent.com/112595648/195382183-c69462e5-e038-4bda-a45e-956c51b1e265.png)

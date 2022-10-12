@@ -23,5 +23,5 @@ we have 3 webservers (rhel-8) 1 NFS-server(Rhel-8) and a DB-server (ubuntu20.4)
 <img width="708" alt="Screenshot 2022-10-12 at 15 12 47" src="https://user-images.githubusercontent.com/112595648/195366757-c6ee448e-b190-4770-9682-3d360d122202.png">
 <img width="712" alt="Screenshot 2022-10-12 at 15 21 45" src="https://user-images.githubusercontent.com/112595648/195368731-d1576668-1351-4ecd-b7ae-25a5493ec81b.png">
 <img width="711" alt="Screenshot 2022-10-12 at 15 39 01" src="https://user-images.githubusercontent.com/112595648/195372977-5393c394-7cc1-42b5-a02b-d838e5ffe235.png">
-
+![Screenshot 2022-10-12 at 15 42 22](https://user-images.githubusercontent.com/112595648/195373904-0dcc796a-b5d1-400a-bbdd-2db0a718741a.png)
 
